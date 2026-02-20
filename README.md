@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-garlapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shriya-garlapati](https://www.linkedin.com/in/g-shriya/))
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gshriya2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShriyaGarlapati)
 
@@ -19,7 +19,6 @@ I'm a **Full Stack Software Engineer** with **4+ years of experience** crafting 
 - 🔭 Currently building **GenAI microservices** with LangChain, RAG pipelines & Groq Llama 3.1
 - 🌱 Deep in the world of **distributed systems**, Kafka, and cloud-native architecture
 - 💡 Passionate about turning messy data into meaningful predictions
-- 📍 Based in **Edison, NJ** — open to relocation
 - ⚡ Fun fact: I've cut infrastructure costs by 40–70% across multiple projects (and I'm proud of it)
 
 ---
