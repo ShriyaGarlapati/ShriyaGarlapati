@@ -14,7 +14,7 @@
 
 > *"Building systems that are fast, smart, and built to last."*
 
-I'm a **Full Stack Software Engineer** with **4+ years of experience** crafting production-grade ML pipelines, event-driven microservices, and AI-powered applications. I recently completed my **M.S. in Computer Science from the University of Georgia (GPA: 3.85)** and love working at the intersection of backend engineering and machine intelligence.
+I'm a **Full Stack Software Engineer** with **5 years of experience** crafting production-grade ML pipelines, event-driven microservices, and AI-powered applications. I recently completed my **M.S. in Computer Science from the University of Georgia (GPA: 3.85)** and love working at the intersection of backend engineering and machine intelligence.
 
 - 🔭 Currently building **GenAI microservices** with LangChain, RAG pipelines & Groq Llama 3.1
 - 🌱 Deep in the world of **distributed systems**, Kafka, and cloud-native architecture
