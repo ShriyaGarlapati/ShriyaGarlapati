@@ -16,7 +16,7 @@
 
 ## About Me
 
-Software Engineer with 5 years of experience building scalable microservices and event-driven systems using Java, Spring Boot, React, and AWS. I've shipped production systems across healthcare, retail, and IoT — from Kafka-powered ingestion pipelines handling enterprise-scale throughput to React dashboards used daily by internal operations teams.
+Software Engineer with 5 years of experience building scalable microservices and event-driven systems using Java, Spring Boot, React, and AWS. 
 
 Currently at **Walgreens**, focused on pharmacy microservices, distributed caching architecture, and infrastructure automation. Passionate about systems that are observable, testable, and built to stay fast under load.
 
