@@ -1,81 +1,124 @@
-# Shriya G — Full Stack Engineer | AI/ML Enthusiast
+**<div align="center">
 
-<div align="center">
+# Shriya Garlapati
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shriya-garlapati](https://www.linkedin.com/in/g-shriya/))
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gshriya2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShriyaGarlapati)
+### Software Engineer · Java · Spring Boot · React · AWS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-shriya/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shriyag1973@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriyaGarlapati)
+
+*Atlanta, GA · Open to Relocate*
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-> *"Building systems that are fast, smart, and built to last."*
+Software Engineer with 5 years of experience building scalable microservices and event-driven systems using Java, Spring Boot, React, and AWS. I've shipped production systems across healthcare, retail, and IoT — from Kafka-powered ingestion pipelines handling enterprise-scale throughput to React dashboards used daily by internal operations teams.
 
-I'm a **Full Stack Software Engineer** with **5 years of experience** crafting production-grade ML pipelines, event-driven microservices, and AI-powered applications. I recently completed my **M.S. in Computer Science from the University of Georgia (GPA: 3.85)** and love working at the intersection of backend engineering and machine intelligence.
+Currently at **Walgreens**, focused on pharmacy microservices, distributed caching architecture, and infrastructure automation. Passionate about systems that are observable, testable, and built to stay fast under load.
 
-- 🔭 Currently building **GenAI microservices** with LangChain, RAG pipelines & Groq Llama 3.1
-- 🌱 Deep in the world of **distributed systems**, Kafka, and cloud-native architecture
-- 💡 Passionate about turning messy data into meaningful predictions
-- ⚡ Fun fact: I've cut infrastructure costs by 40–70% across multiple projects (and I'm proud of it)
+- M.S. Computer Science, University of Georgia — GPA 3.85 / 4.0
+- 5 years across backend systems, cloud infrastructure, and full-stack development
+- Production experience with RAG pipelines, LLM integration, and AI-assisted tooling
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend & Frameworks**
+**Backend & Architecture**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![REST](https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square&logoColor=white)
 
+**Frontend**
 
-**AI / ML**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**AI & Emerging**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6600?style=flat-square&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌾 [**ML Crop Yield Forecasting**](https://github.com/ShriyaGarlapati/PYCS_ML) | Predicted alfalfa biomass yields using 7K+ weather records over 20 years. Achieved R² of **0.907** with Stacking/Voting ensembles | Python, XGBoost, Optuna, scikit-learn |
-| 📧 [**Cold Email Generator**](https://github.com/ShriyaGarlapati/cold-email-generator) | GenAI API that scrapes job listings, matches your portfolio via semantic search, and writes personalized cold emails | FastAPI, LangChain, Groq Llama 3.1, ChromaDB |
-| 🔒 [**Privacy-Preserving Data Analysis**](https://github.com/ShriyaGarlapati/PrivacyPreservingDataAnalysis-main) | Analyzed sensitive data with privacy guarantees built in | Python, Jupyter |
-| ⚙️ [**Consistent Hashing**](https://github.com/ShriyaGarlapati/Consistent_Hashing-main) | Implemented consistent hashing for distributed load balancing | Java |
+| [ML Crop Yield Forecasting](https://github.com/ShriyaGarlapati/PYCS_ML) | Predicted alfalfa biomass yields from 7K+ weather records over 20 years. Achieved R² of **0.907** with stacking/voting ensembles | Python, XGBoost, Optuna, scikit-learn |
+| [Cold Email Generator](https://github.com/ShriyaGarlapati/cold-email-generator) | GenAI API that scrapes job listings, matches portfolio via semantic search, and generates personalized outreach | FastAPI, LangChain, Groq Llama 3.1, ChromaDB |
+| [Privacy-Preserving Data Analysis](https://github.com/ShriyaGarlapati/PrivacyPreservingDataAnalysis-main) | Analytical framework for sensitive datasets with privacy guarantees built into the pipeline | Python, Jupyter |
+| [Consistent Hashing](https://github.com/ShriyaGarlapati/Consistent_Hashing-main) | Implementation of consistent hashing for distributed load balancing | Java |
 
 ---
 
+## Work Experience
+
+**Walgreens** — Software Engineer · *Aug 2025 – Present*
+- Kafka event streaming across microservices → **70% reduction in refill API latency**
+- Two-tier Redis + Caffeine caching with Kafka-driven invalidation → **94% cache hit rate**, **64% drop in peak DB CPU**
+- Automated Terraform drift detection CI job → caught 14 undocumented AWS config discrepancies between staging and prod
+
+**PTC** — Software Engineer Intern · *Aug 2024 – May 2025*
+- Kafka telemetry ingestion pipeline optimization → **40% throughput increase**
+- MySQL → Elasticsearch migration → **60% faster device search** across a 50,000-entry catalog
+- Production RAG pipeline for AI Assist → **20% reduction in negative feedback**, **15% fewer support tickets**
+
+**NCR Voyix** — Software Engineer I · *Jan 2022 – Jul 2023*
+- 50+ REST APIs modernizing a legacy Delphi POS system into a multi-tenant Spring Boot microservices platform
+- Sub-10ms P95 latency on high-volume endpoints via Redis distributed caching
+- Mean time to detect latency regressions reduced by **40%** with Prometheus + Grafana
+
+**Pi Software Solutions** — Junior Software Engineer · *Jul 2020 – Dec 2021*
+- LMS backend from scratch: 25+ REST APIs, multi-tenant exam workflows, Redis-powered seat availability
+- Jenkins CI/CD with parallel test suites and SonarQube quality gates → **83% reduction in incidents**
+- Docker multi-stage builds → **70% smaller images**, 3× faster deployments
+
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- 🏅 AWS Cloud Practitioner
-- 🏅 Microsoft Certified: Azure Fundamentals
-- 🏅 IBM Full Stack Software Developer (Coursera)
-- 🏅 Back-End Development with .NET (Coursera)
+- AWS Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals
+- IBM Full Stack Software Developer
+- Back-End Development with .NET — Coursera
 
 ---
 
+## Education
 
+**University of Georgia** — M.S. Computer Science · GPA 3.85 / 4.0 · *2023–2025***
