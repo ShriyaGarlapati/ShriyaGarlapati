@@ -18,7 +18,6 @@
 
 Software Engineer with 5 years of experience building scalable microservices and event-driven systems using Java, Spring Boot, React, and AWS. 
 
-Currently at **Walgreens**, focused on pharmacy microservices, distributed caching architecture, and infrastructure automation. Passionate about systems that are observable, testable, and built to stay fast under load.
 
 - M.S. Computer Science, University of Georgia — GPA 3.85 / 4.0
 - 5 years across backend systems, cloud infrastructure, and full-stack development
@@ -80,29 +79,6 @@ Currently at **Walgreens**, focused on pharmacy microservices, distributed cachi
 | [Privacy-Preserving Data Analysis](https://github.com/ShriyaGarlapati/PrivacyPreservingDataAnalysis-main) | Analytical framework for sensitive datasets with privacy guarantees built into the pipeline | Python, Jupyter |
 | [Consistent Hashing](https://github.com/ShriyaGarlapati/Consistent_Hashing-main) | Implementation of consistent hashing for distributed load balancing | Java |
 
----
-
-## Work Experience
-
-**Walgreens** — Software Engineer · *Aug 2025 – Present*
-- Kafka event streaming across microservices → **70% reduction in refill API latency**
-- Two-tier Redis + Caffeine caching with Kafka-driven invalidation → **94% cache hit rate**, **64% drop in peak DB CPU**
-- Automated Terraform drift detection CI job → caught 14 undocumented AWS config discrepancies between staging and prod
-
-**PTC** — Software Engineer Intern · *Aug 2024 – May 2025*
-- Kafka telemetry ingestion pipeline optimization → **40% throughput increase**
-- MySQL → Elasticsearch migration → **60% faster device search** across a 50,000-entry catalog
-- Production RAG pipeline for AI Assist → **20% reduction in negative feedback**, **15% fewer support tickets**
-
-**NCR Voyix** — Software Engineer I · *Jan 2022 – Jul 2023*
-- 50+ REST APIs modernizing a legacy Delphi POS system into a multi-tenant Spring Boot microservices platform
-- Sub-10ms P95 latency on high-volume endpoints via Redis distributed caching
-- Mean time to detect latency regressions reduced by **40%** with Prometheus + Grafana
-
-**Pi Software Solutions** — Junior Software Engineer · *Jul 2020 – Dec 2021*
-- LMS backend from scratch: 25+ REST APIs, multi-tenant exam workflows, Redis-powered seat availability
-- Jenkins CI/CD with parallel test suites and SonarQube quality gates → **83% reduction in incidents**
-- Docker multi-stage builds → **70% smaller images**, 3× faster deployments
 
 ---
 
